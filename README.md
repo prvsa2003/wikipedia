@@ -1,2 +1,2 @@
 # wikipedia
-Custom Wikipedia, an educational program
+This is a customized version of Wikipedia

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/explore"
+        android:icon="@drawable/explore"
+        android:title="Explore" />
+
+    <item
+        android:id="@+id/trend"
+        android:icon="@drawable/trend"
+        android:title="Trend" />
+
+    <item
+        android:id="@+id/progile_menu"
+        android:icon="@drawable/profile"
+        android:title="profile" />
+
+
+</menu>
