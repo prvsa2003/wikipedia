@@ -41,7 +41,7 @@ class Fragment_Explore : Fragment() , ItemEvent {
                         "He studied sociology at the University of Gilan and openly expressed his opinions about the university, leading to his getting expelled",
                 false,
                 "" ,
-               " https://en.wikipedia.org/wiki/Shahin_Najafi"
+               "https://en.wikipedia.org/wiki/Shahin_Najafi"
             ),
             ItemPost(
                 "https://upload.wikimedia.org/wikipedia/commons/3/30/Hichkas_.jpg",
