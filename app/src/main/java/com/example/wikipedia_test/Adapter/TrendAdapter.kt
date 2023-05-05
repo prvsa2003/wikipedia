@@ -23,7 +23,7 @@ class TrendAdapter(val data: ArrayList<ItemPost> , val itemEvent: ItemEvent) :
             binding.txtinsighttrend.text = itemPost.insight
             binding.txtnumbertrend.text = (adapterPosition+1).toString()
             Glide.with(itemView.context)
-                .load(itemPost.insight)
+                .load(itemPost.imgurl)
                 .transform(RoundedCornersTransformation(32 , 8 ))
                 .into(binding.imagetrend)
 
